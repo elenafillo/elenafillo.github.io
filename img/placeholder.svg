@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <pattern id="s" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="20" height="20" fill="#F7F8FA"/>
+      <rect width="10" height="20" fill="#E9ECF2"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="500" fill="url(#s)"/>
+  <text x="400" y="262" text-anchor="middle" font-family="monospace" font-size="28" fill="#4A505E">your image here</text>
+</svg>
